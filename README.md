@@ -1,4 +1,3 @@
-Python From Zero
 
 This repository contains my complete Python learning journey from basic concepts to advanced topics.
 It is organized chapter-wise and includes theory-based practice programs, problem-solving exercises, and mini projects.
