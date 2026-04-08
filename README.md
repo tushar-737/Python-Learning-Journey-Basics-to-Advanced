@@ -9,7 +9,7 @@ Repository Structure
 - Chapter 2 – Variables and Data Types
 - Chapter 3 – Strings
 - Chapter 4 – Lists and Tuples
-- Chapter 5 – Dictionary and Sets
+- Chapter 5 – Dictionary and Sets 
 - Chapter 6 – Conditional Expressions
 - Chapter 7 – Loops
 - Chapter 8 – Functions and Recursion
